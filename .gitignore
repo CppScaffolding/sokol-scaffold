@@ -1,0 +1,4 @@
+## .gitignore file for sokol-scaffold
+
+## ignore folder fetched through gclient
+sokol
